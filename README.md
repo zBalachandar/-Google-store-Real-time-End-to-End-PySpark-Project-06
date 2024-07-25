@@ -1,15 +1,13 @@
 # Google-store-Real-time-End-to-End-PySpark-Project-06
-In this project we are going to learn pyspark and do industry level end to end  data engineer project based on business use case. we will first understand architecture and then pyspark overview about dataframe and then we will do project 
-# Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project 2.
-This is complete End to End PySpark project and we have covered each and every thing with PySpark Example and PySpark Project Scenario.
+In this project we are going to learn pyspark and do industry level end to end  data engineer project based on business use case. we will first understand architecture and then pyspark overview about dataframe and then we will do project .
 <div align="center">
   <a href="#">
-    <img src="https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2001.png" alt="Banner" width="720">
+    <img src="" alt="Banner" width="720">
   </a>
 
   <div id="user-content-toc">
     <ul>
-      <summary><h1 style="display: inline-block;">🔧 Analyzing Sales Data </h1></summary>
+      <summary><h1 style="display: inline-block;">🔧 Analyzing Google Playstore Data </h1></summary>
     </ul>
   </div>
   
@@ -40,18 +38,13 @@ Dataset link:https://drive.google.com/drive/folders/157Htdzp78CNSQWBH5HKmQ4Y2r9I
 ### Business Requirement.
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/01b38e806b101e00ece9f05c324fbdb40c388c78/ASSETS/Business%20Requirements.jpg)
 
-### KPI
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/KPI's.jpg)
-
-
 ### Project steps to follow: 
 what we have covered in this project:
 
 - We have Covered End to End PySpark Project 
 - PySpark Project Example
 - Databricks PySpark Project
-- Data processing with KPI's
-- Developed the KPI's Data Visualization according to the business requirement
+- Analysis the data according to the business requirement
 
 we have Business requirements and we want to do data cleaning and processing using PySpark in Databricks Environment.
 we have discussed how we work in real-time in Databricks and PySpark 
@@ -62,34 +55,22 @@ we have discussed how we work in real-time in Databricks and PySpark
  Data cleaning and processing using PySpark in Databricks Environment.
 ### DataBricks Notebook.
 [DataBricks Notebook- Project Live-link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/221411313223171/1662184132138436/latest.html)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/01DT.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/02DT.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/03DT.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/How%20many%20times%20each%20product%20purcahsed.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Quarterly%20sales.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Top%20ordered%20items.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20amount%20SALES%20by%20each%20MONTH.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20amount%20spend%20by%20each%20customer.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20amount%20spend%20by%20each%20food%20category.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20sales%20by%20each%20country.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/YEARLY%20SALES.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/frequency%20of%20customer%20visted%20res.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/menu%20df.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/b0eac8739b90c60e3ed4240c1c9fec3686e7935b/ASSETS/Pyspark%20Databricks%20Notebook/total%20sales%20by%20order%20sources.png)
-
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
 <a name="data-reporting"></a>
-### 📊 Data Reporting KPI's
-I created a presentation dashboard and insightful data visualizations.
-[Data Visualization presentation Live-link](https://community.cloud.databricks.com/?o=4339393889004771#notebook/2305521296724873/dashboard/102889012920708/present)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2001.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2002.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2003%20dashboard.png)
-![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2004%20dashboard.png)
+### 📊 Data Analysis
+I created a insightful data Analytics.
+![image]()
+![image]()
+![image]()
 
 ### 🛠️ Technologies Used
 
 - **Data processing**: DataBricks -Pyspark
-- **Data Visualization**: DataBricks Visualization
 
 <a name="credits"></a>
 ## 📋 Credits
