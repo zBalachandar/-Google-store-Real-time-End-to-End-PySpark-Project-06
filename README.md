@@ -29,7 +29,8 @@ In this project we are going to learn pyspark and do industry level end to end  
 we have Business requirements and we want to do data cleaning and processing using PySpark in Databricks Environment.
 we have discussed how we work in real-time in Databricks and PySpark 
 we have developed the presentation Dashboard according to the Databricks notebook KPI's. 
-project live link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/221411313223171/1662184132138436/latest.html
+
+### Project live link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/221411313223171/1662184132138436/latest.html
 
 
 ### 💾 Dataset
@@ -55,44 +56,45 @@ we have discussed how we work in real-time in Databricks and PySpark
  Data cleaning and processing using PySpark in Databricks Environment.
 ### DataBricks Notebook.
 [DataBricks Notebook- Project Live-link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/221411313223171/1662184132138436/latest.html)
-# Google Play Store Pyspark Project Data frame imported
+
+## Google Play Store Pyspark Project Data frame imported
 ![Google Play Store Pyspark Project Data frame imported](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/Google%20playstore%20Pyspark%20Project%20DE0.png)
 
-# Dataframe
+## Dataframe
 ![Dataframe](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/Dataframe01.png)
 
-# getschema
+## getschema
 ![getschema](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/get%20Schema%20De.png)
 
-# Data CLEANING PROGRESS STAGE 01
+## Data CLEANING PROGRESS STAGE 01
 ![Data CLEANING PROGRESS](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/Data%20CLEANING%20PROGRESS.png)
 
-Data CLEANING PROGRESS STAGE 02
+## Data CLEANING PROGRESS STAGE 02
 ![Data CLEANING PROGRESS 02](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/Data%20CLEANING%20PROGRESS%2002.png)
 
-# Pyspark Cleaning coding withregexp
+## Pyspark Cleaning coding withregexp
 ![Pyspark Cleaning coding withregexp](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/Pyspark%20Cleaning%20coding%20withregexp.png)
 
-##Pyspark Cleaning coding SQL results
+## Pyspark Cleaning coding SQL results
 ![Pyspark Cleaning coding SQL results](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/Pyspark%20Cleaning%20coding%20sql%20results.png)
 
 ## Sql results
 ![sql results](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/sql%20results.png)
 
 <a name="data-reporting"></a>
-### 📊 Data Analysis
+#📊 Data Analysis
 I created an insightful data Analytics.
 
-# SQL query Top 10apps
+## SQL query Top 10apps
 ![sql query Top 10apps](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/sql%20query%20Top%2010apps.png)
 
-# SQL query Top installed apps
+## SQL query Top installed apps
 ![SQL query Top installed apps](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/sql%20query%20Top%20installed%20apps.png)
 
-# SQL query 3 
+## SQL query 3 
 ![sql query 3 ](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/sql%20query%203%20.png)
 
-# SQL Category-wise query
+## SQL Category-wise query
 ![sql categorywise query](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/sql%20categorywise%20query.png)
 
 ## Top paid apps SQL query
