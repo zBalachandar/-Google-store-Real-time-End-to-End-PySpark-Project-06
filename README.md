@@ -54,7 +54,7 @@ we have discussed how we work in real-time in Databricks and PySpark
 <a name="data-transformation"></a>
 ### ⚙️ Data Transformation
  Data cleaning and processing using PySpark in Databricks Environment.
-### DataBricks Notebook.
+# DataBricks Notebook.
 [DataBricks Notebook- Project Live-link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/221411313223171/1662184132138436/latest.html)
 
 ## Google Play Store Pyspark Project Data frame imported
@@ -85,19 +85,19 @@ we have discussed how we work in real-time in Databricks and PySpark
 #📊 Data Analysis
 I created an insightful data Analytics.
 
-## SQL query Top 10apps
+## 1.SQL query for Top 10apps
 ![sql query Top 10apps](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/sql%20query%20Top%2010apps.png)
 
-## SQL query Top installed apps
+## 2. SQL query for Top installed apps
 ![SQL query Top installed apps](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/sql%20query%20Top%20installed%20apps.png)
 
-## SQL query 3 
+## 3. SQL query for Top Apps
 ![sql query 3 ](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/sql%20query%203%20.png)
 
-## SQL Category-wise query
+## 4. SQL Category-wise query
 ![sql categorywise query](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/sql%20categorywise%20query.png)
 
-## Top paid apps SQL query
+## 5. Top paid apps SQL query
 ![Top paid apps sql query](https://github.com/zBalachandar/Google-store-Real-time-End-to-End-PySpark-Project-06/blob/6c94adb32e09566be3fadb92408f28ff054ccb71/Assets/Top%20paid%20apps%20sql%20query.png)
 
 
